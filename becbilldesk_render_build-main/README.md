@@ -33,7 +33,7 @@ A modern, **macOS-inspired** college fee payment portal with an **AI voice assis
 
 ```bash
 # Clone the repository (or download ZIP and extract)
-git clone https://github.com/sangam-gaddi/BECBILLDESK-voice-agent-includes-.git
+git clone https://github.com/Soham-patil18/BECBILLDESK-voice-agent-includes-.git
 cd BECBILLDESK-voice-agent-includes-
 ```
 
@@ -219,7 +219,7 @@ MIT License - Feel free to use and modify!
 
 ## 👨‍💻 Author
 
-**Sangam Gaddi**  
+**Soham patil**  
 BEC - ISE Department
 
 ---
